@@ -1,0 +1,10 @@
+leche
+pan
+azucar
+cafe
+milo
+cocoa
+sal
+té
+mantequilla
+mermelada
